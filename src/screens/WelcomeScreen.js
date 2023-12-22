@@ -10,19 +10,19 @@ const WelcomeScreen = ({ navigation }) => {
 			/>
 
 			<Text style={{ color: "#f96163", fontSize: 22, fontWeight: "bold" }}>
-				Công thức nấu ăn cao cấp
+				Chào mừng đến với
 			</Text>
 
 			<Text
 				style={{
-					fontSize: 42,
+					fontSize: 35,
 					fontWeight: "bold",
 					color: "#3c444c",
 					marginTop: 44,
 					marginBottom: 40,
 				}}
 			>
-				Cook Like A Chef
+				Công thức nấu ăn cao cấp
 			</Text>
 
 			<TouchableOpacity
